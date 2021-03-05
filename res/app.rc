@@ -1,0 +1,15 @@
+#include "windows.h"
+
+#define RT_MANIFEST 24
+1 RT_MANIFEST "app.manifest"
+
+app_icon ICON "icon.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+default_dialog DIALOGEX 0, 0, 0, 0
+BEGIN
+END
